@@ -1,4 +1,7 @@
-
+<div class="header">
+        <!-- Asegúrate de que la ruta coincida con donde subiste la imagen -->
+        <img src="imagenes/PORTADA.jpg" alt="Portada profesional" class="portada">
+    </div>
 
 <div>
     <div align="center">
