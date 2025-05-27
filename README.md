@@ -48,26 +48,29 @@
     </strong>
 </div>
      <h2>Areas of Expertise</h2>
-<p align="center"> 
-  &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/PYTHON-orange?logo=python&logoColor=white">
-
-  </a>
-  &emsp;
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white">
-  </a> 
-</p>
+<div style="columns: 2; gap: 16px;">
+    <div style="break-inside: avoid; margin-bottom: 12px;">✅ <strong>Data Quality & Governance</strong></div>
+    <div style="break-inside: avoid; margin-bottom: 12px;">✅ <strong>Marketing Funnel Analytics</strong></div>
+    <div style="break-inside: avoid; margin-bottom: 12px;">✅ <strong>CRM Data Analytics</strong></div>
+    <div style="break-inside: avoid; margin-bottom: 12px;">✅ <strong>Economic Impact Modeling</strong></div>
+    <div style="break-inside: avoid; margin-bottom: 12px;">✅ <strong>Performance Optimization</strong></div>
+    <div style="break-inside: avoid;">✅ <strong>Opportunity Pipeline Dashboards</strong></div>
+</div>
 <h2>Career Highlights</h2>
 
-<p align="center"> 
-  &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/PYTHON-orange?logo=python&logoColor=white">
-
-  </a>
-  &emsp;
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white">
-  </a> 
-</p>
+<div style="text-align: left;">
+            <strong>
+        <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+            <li>IT Network Analyst | Claro Perú (Jul 2024 - Jan 2025)</li> 
+                </div>
+                        <div>Data-Driven Operational Optimization: Designed Power BI dashboards tracking response times and failure recurrence, improving decision-making speed by 30%.</div>
+                        <div>Process Automation: Developed Python scripts for automated ticket classification, reducing processing time by 90% with ML(NLP)</div>
+                        <div>Database Performance: Optimized SQL databases, achieving 40% faster query execution and ensuring 99.9% data accuracy in reports.</div>
+            <li>BI Analyst | Grupo M4G (Feb 2025 - Currently)</li> 
+                </div>
+                        <div>Deliver periodic reports and communicate insights to non-technical stakeholders.</div>
+                        <div>Identify trends using basic ML models.</div>
+                        <div>Build interactive dashboards  to track CAC, CTR, MRR, Win Rate, and other KPIs.</div>
     <h2>Programming languages</h2>
 
 <p align="center"> 
